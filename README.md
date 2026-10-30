@@ -55,7 +55,7 @@
 
 <!-- Footer Wave -->
 
-<p align="center"> 
+<p align="center">   
 
   <!-wave section-  -->
   <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
