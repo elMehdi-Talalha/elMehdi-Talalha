@@ -46,13 +46,14 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,angular,net,arch,kali,postman,notion,slack" />
 </div>
 
-
-<!-- <div align="center">
-  <!-- animate image -->
+<!--
+<div align="center">
+  <!-- Animated Image -->
 
   ![Animated Pixel Art](https://github.com/zene-codes/zene-codes/blob/main/assets/chill-image.gif)
 
-</div> -->
+</div>
+-->
 
 <!-- Footer Wave -->
 
