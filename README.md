@@ -47,18 +47,19 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <!-- animate image -->
-  
+
   ![Animated Pixel Art](https://github.com/zene-codes/zene-codes/blob/main/assets/chill-image.gif)
 
-</div>
+</div> -->
 
 <!-- Footer Wave -->
 
 <p align="center">   
 
-  <!-wave section-  -->
+  <!-- wave section -->
+
   <img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
 
 <!-- pac man picture -->
