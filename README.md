@@ -32,10 +32,11 @@
 </div>
 
 <!-- Activity Graph -->
-<div align="center">
+<!-- <div align="center">
 
   ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehdi-Talalha&bg_color=0d1117&color=00ff88&line=ff6b6b&point=fff7e0&area=true&hide_border=true&radius=10)
-</div>
+
+</div> -->
 
 
 <!-- Skills & Technologies -->
