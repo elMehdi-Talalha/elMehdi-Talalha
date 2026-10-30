@@ -49,6 +49,7 @@
 
 <div align="center">
   <!-- animate image -->
+  
   ![Animated Pixel Art](https://github.com/zene-codes/zene-codes/blob/main/assets/chill-image.gif)
 
 </div>
